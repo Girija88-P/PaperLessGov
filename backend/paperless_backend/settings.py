@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-2n4iz!v3%0s)tp
 # SECURITY: Switch DEBUG off in production
 DEBUG = os.environ.get('DJANGO_DEBUG', 'True') == 'True'
 
-ALLOWED_HOSTS = ['*'] if DEBUG else os.environ.get('DJANGO_ALLOWED_HOSTS', '').split(',')
+ALLOWED_HOSTS = ['*'] if DEBUG else ['paperlessgov-backend.onrender.com', 'paper-less-gov.vercel.app']
 
 # Application definition
 INSTALLED_APPS = [
@@ -75,6 +75,7 @@ AXES_RESET_ON_SUCCESS = True
 # CORS: Allow all origins in development for phone testing
 CORS_ALLOW_ALL_ORIGINS = DEBUG
 CORS_ALLOWED_ORIGINS = [] if DEBUG else [
+    'https://paper-less-gov.vercel.app',
     'http://localhost:3000',
     'http://127.0.0.1:3000',
 ]
