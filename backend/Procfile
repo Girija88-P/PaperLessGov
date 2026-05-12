@@ -1,0 +1,1 @@
+web: gunicorn paperless_backend.wsgi
