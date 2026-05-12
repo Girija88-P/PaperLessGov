@@ -1,0 +1,4677 @@
+[
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 1,
+  "fields": {
+    "user": 7,
+    "jti": "9c893ef8e35b4e1b870b2b4e6d3733a7",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODUzMjU3NSwiaWF0IjoxNzc3OTI3Nzc1LCJqdGkiOiI5Yzg5M2VmOGUzNWI0ZTFiODcwYjJiNGU2ZDM3MzNhNyIsInVzZXJfaWQiOiI3In0.tKX4-n3FzzGhCvCF_G6PZeUg51AThjz9-4xyzg_2FY0",
+    "created_at": "2026-05-04T20:49:35.951Z",
+    "expires_at": "2026-05-11T20:49:35Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 2,
+  "fields": {
+    "user": 7,
+    "jti": "f138c2046d53488c9ecde6c3125f81de",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODUzMjYxNiwiaWF0IjoxNzc3OTI3ODE2LCJqdGkiOiJmMTM4YzIwNDZkNTM0ODhjOWVjZGU2YzMxMjVmODFkZSIsInVzZXJfaWQiOiI3In0.ppOqImlvflKdEdvRmzOU3LvxzbXT0055xc9_CN2rGQI",
+    "created_at": "2026-05-04T20:50:16.264Z",
+    "expires_at": "2026-05-11T20:50:16Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 3,
+  "fields": {
+    "user": 7,
+    "jti": "9448823548d14d0caaaa77a01670b79a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODUzMjgxNSwiaWF0IjoxNzc3OTI4MDE1LCJqdGkiOiI5NDQ4ODIzNTQ4ZDE0ZDBjYWFhYTc3YTAxNjcwYjc5YSIsInVzZXJfaWQiOiI3In0.LBxhrfIJEqVW53iH7FBNnxjVpOAmKWqvJNzY_X8-5lE",
+    "created_at": "2026-05-04T20:53:35.570Z",
+    "expires_at": "2026-05-11T20:53:35Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 4,
+  "fields": {
+    "user": 13,
+    "jti": "39f7330027e74e679d89be4f387c8da7",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODUzMzI4OSwiaWF0IjoxNzc3OTI4NDg5LCJqdGkiOiIzOWY3MzMwMDI3ZTc0ZTY3OWQ4OWJlNGYzODdjOGRhNyIsInVzZXJfaWQiOiIxMyJ9.X9iJYumZlI3_APMtRTfMO7B9ZJ6W5T6VMw-cE-1Gl5o",
+    "created_at": "2026-05-04T21:01:29.816Z",
+    "expires_at": "2026-05-11T21:01:29Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 5,
+  "fields": {
+    "user": 13,
+    "jti": "67205d4b82694927875360e149328619",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODU1NDAzNiwiaWF0IjoxNzc3OTQ5MjM2LCJqdGkiOiI2NzIwNWQ0YjgyNjk0OTI3ODc1MzYwZTE0OTMyODYxOSIsInVzZXJfaWQiOiIxMyJ9.rhCl5NQaXXvkyX-nqxyCwvEJLopD2tS_SyqYqzXiNZk",
+    "created_at": "2026-05-05T02:47:16.204Z",
+    "expires_at": "2026-05-12T02:47:16Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 6,
+  "fields": {
+    "user": 13,
+    "jti": "5a5105ee533241218f8ef5c837a234ef",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODU1NDAzNiwiaWF0IjoxNzc3OTQ5MjM2LCJqdGkiOiI1YTUxMDVlZTUzMzI0MTIxOGY4ZWY1YzgzN2EyMzRlZiIsInVzZXJfaWQiOiIxMyJ9._lhgMsHNaC-VH51rNmBYUXyulZ-ODXWtOyhiH_8ObFQ",
+    "created_at": "2026-05-05T02:47:16.199Z",
+    "expires_at": "2026-05-12T02:47:16Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 7,
+  "fields": {
+    "user": 7,
+    "jti": "72f44e5139294b8ba71c1e69fe239a7a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODU1NDI2NSwiaWF0IjoxNzc3OTQ5NDY1LCJqdGkiOiI3MmY0NGU1MTM5Mjk0YjhiYTcxYzFlNjlmZTIzOWE3YSIsInVzZXJfaWQiOiI3In0._cPwDipVGOgDixwygmhKkNEgIdDa-fBTE2JpI9HhSbo",
+    "created_at": "2026-05-05T02:51:05.758Z",
+    "expires_at": "2026-05-12T02:51:05Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 8,
+  "fields": {
+    "user": 4,
+    "jti": "52dd1b92115948d58cd3129da04bf75c",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3ODU1NDM1MCwiaWF0IjoxNzc3OTQ5NTUwLCJqdGkiOiI1MmRkMWI5MjExNTk0OGQ1OGNkMzEyOWRhMDRiZjc1YyIsInVzZXJfaWQiOiI0In0.RUOBq1ejgl8tX_BVWL2_K82bjRSaKuQv3mTFjlzx654",
+    "created_at": "2026-05-05T02:52:30.326Z",
+    "expires_at": "2026-05-12T02:52:30Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 9,
+  "fields": {
+    "user": 7,
+    "jti": "0f29e412fe8a45dbb65b781b5ad677fd",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4MDQ4NzgyMywiaWF0IjoxNzc3ODk1ODIzLCJqdGkiOiIwZjI5ZTQxMmZlOGE0NWRiYjY1Yjc4MWI1YWQ2NzdmZCIsInVzZXJfaWQiOiI3In0.S1ucCywsWDkx76kx4gfwECvr6RH7p6ZCN_uzvEQXRHA",
+    "created_at": "2026-05-11T22:43:32.812Z",
+    "expires_at": "2026-06-03T11:57:03Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 10,
+  "fields": {
+    "user": 7,
+    "jti": "3142f3514e5b448290bb213c3cd1a171",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE0NDIxMiwiaWF0IjoxNzc4NTM5NDEyLCJqdGkiOiIzMTQyZjM1MTRlNWI0NDgyOTBiYjIxM2MzY2QxYTE3MSIsInVzZXJfaWQiOiI3In0.LJ4jZMGA8emceBJHtVO-MamxjGOiJdU4J7ncKxzo2OY",
+    "created_at": "2026-05-11T22:43:32.812Z",
+    "expires_at": "2026-05-18T22:43:32Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 11,
+  "fields": {
+    "user": 7,
+    "jti": "b1cad2e52ea244458e8a9f382e7606be",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE0NDIxMiwiaWF0IjoxNzc4NTM5NDEyLCJqdGkiOiJiMWNhZDJlNTJlYTI0NDQ1OGU4YTlmMzgyZTc2MDZiZSIsInVzZXJfaWQiOiI3In0.BTalr0OAGk4YhShIkaW6WWYYwdjKxsC9gy5UTORmIK8",
+    "created_at": "2026-05-11T22:43:32.811Z",
+    "expires_at": "2026-05-18T22:43:32Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 12,
+  "fields": {
+    "user": 7,
+    "jti": "c059c9cc2cd445888726e40922d96947",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE0NTAwOSwiaWF0IjoxNzc4NTQwMjA5LCJqdGkiOiJjMDU5YzljYzJjZDQ0NTg4ODcyNmU0MDkyMmQ5Njk0NyIsInVzZXJfaWQiOiI3In0.J7zDsiAh0IlBJDdzoUH2AH_hZWSkRjVc-ov37y1NJ38",
+    "created_at": "2026-05-11T22:56:49.815Z",
+    "expires_at": "2026-05-18T22:56:49Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 13,
+  "fields": {
+    "user": 7,
+    "jti": "eb88366d38174ab69f63a65dee23ecee",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE0NjY0NywiaWF0IjoxNzc4NTQxODQ3LCJqdGkiOiJlYjg4MzY2ZDM4MTc0YWI2OWY2M2E2NWRlZTIzZWNlZSIsInVzZXJfaWQiOiI3In0.gsCPgiWtMXOcm7bwzGENXx_vtzGutKcq-9ucYlPcR40",
+    "created_at": "2026-05-11T23:24:07.625Z",
+    "expires_at": "2026-05-18T23:24:07Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 14,
+  "fields": {
+    "user": 7,
+    "jti": "43121ff1c63148f2850a95dbddb50860",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1MzkyMCwiaWF0IjoxNzc4NTQ5MTIwLCJqdGkiOiI0MzEyMWZmMWM2MzE0OGYyODUwYTk1ZGJkZGI1MDg2MCIsInVzZXJfaWQiOiI3In0.xtebu4R0fYack1vqpjYGsNk5ObmS0CULpd5c-nQlRd8",
+    "created_at": "2026-05-12T01:25:20.294Z",
+    "expires_at": "2026-05-19T01:25:20Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 15,
+  "fields": {
+    "user": 7,
+    "jti": "50e1491ccbdc4fd7874d193e3d8ab864",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1MzkyMCwiaWF0IjoxNzc4NTQ5MTIwLCJqdGkiOiI1MGUxNDkxY2NiZGM0ZmQ3ODc0ZDE5M2UzZDhhYjg2NCIsInVzZXJfaWQiOiI3In0.0fDmZ_xigrJigky-eE5W1NVhTnkPVNArRf_tmcDXDQ0",
+    "created_at": "2026-05-12T01:25:20.289Z",
+    "expires_at": "2026-05-19T01:25:20Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 16,
+  "fields": {
+    "user": 13,
+    "jti": "910f95429a3d41bcad9c7263952160bd",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1NTMwMywiaWF0IjoxNzc4NTUwNTAzLCJqdGkiOiI5MTBmOTU0MjlhM2Q0MWJjYWQ5YzcyNjM5NTIxNjBiZCIsInVzZXJfaWQiOiIxMyJ9.Bxs0UauL15-98JOCu5g5y8XmbPcXqQ9W2wPdY_qqcGI",
+    "created_at": "2026-05-12T01:48:23.812Z",
+    "expires_at": "2026-05-19T01:48:23Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 17,
+  "fields": {
+    "user": 7,
+    "jti": "7e834142c6cb471a8b954707a3fc3eee",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1NTM5NCwiaWF0IjoxNzc4NTUwNTk0LCJqdGkiOiI3ZTgzNDE0MmM2Y2I0NzFhOGI5NTQ3MDdhM2ZjM2VlZSIsInVzZXJfaWQiOiI3In0.IW3wgIB6M_feFCo3XGfoG8Ch7N0yG8L5V5oYyfXKq0E",
+    "created_at": "2026-05-12T01:49:54.305Z",
+    "expires_at": "2026-05-19T01:49:54Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 18,
+  "fields": {
+    "user": 4,
+    "jti": "3115cdaf166b47cd852b0359214e9034",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1NTQ1MiwiaWF0IjoxNzc4NTUwNjUyLCJqdGkiOiIzMTE1Y2RhZjE2NmI0N2NkODUyYjAzNTkyMTRlOTAzNCIsInVzZXJfaWQiOiI0In0.tv74asvdlNJG3n7WLqAubBeNMcOH3EO9m8Ct1uOBOeE",
+    "created_at": "2026-05-12T01:50:52.315Z",
+    "expires_at": "2026-05-19T01:50:52Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 19,
+  "fields": {
+    "user": 4,
+    "jti": "c0995b6b4adf45a2a7cd963de9290744",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1NTQ1MiwiaWF0IjoxNzc4NTUwNjUyLCJqdGkiOiJjMDk5NWI2YjRhZGY0NWEyYTdjZDk2M2RlOTI5MDc0NCIsInVzZXJfaWQiOiI0In0.yFrDfwkJhxzBlD-Z8Hg3CvbdFEXdZMx_pcFvBS3AfQ8",
+    "created_at": "2026-05-12T01:50:52.312Z",
+    "expires_at": "2026-05-19T01:50:52Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 20,
+  "fields": {
+    "user": 13,
+    "jti": "da6c9b0718eb4486bdea61f08128d0fd",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE1NTQ4NCwiaWF0IjoxNzc4NTUwNjg0LCJqdGkiOiJkYTZjOWIwNzE4ZWI0NDg2YmRlYTYxZjA4MTI4ZDBmZCIsInVzZXJfaWQiOiIxMyJ9.9zRi0uJ1mNrLTRxJbW_OaQ0toUUlWySReGmgVS3-Zgw",
+    "created_at": "2026-05-12T01:51:24.829Z",
+    "expires_at": "2026-05-19T01:51:24Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 21,
+  "fields": {
+    "user": 6,
+    "jti": "a60dab83ca6e423bbf1013bc194546df",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE2MDI0NSwiaWF0IjoxNzc4NTU1NDQ1LCJqdGkiOiJhNjBkYWI4M2NhNmU0MjNiYmYxMDEzYmMxOTQ1NDZkZiIsInVzZXJfaWQiOiI2In0.Ci03-QVAU9c84EYJQtMSMPBUQl1SoI77Y_U46-tVQxM",
+    "created_at": "2026-05-12T03:10:45.932Z",
+    "expires_at": "2026-05-19T03:10:45Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 22,
+  "fields": {
+    "user": 7,
+    "jti": "cfa6ce536b51437380b23da6acab459d",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE2NDcyNywiaWF0IjoxNzc4NTU5OTI3LCJqdGkiOiJjZmE2Y2U1MzZiNTE0MzczODBiMjNkYTZhY2FiNDU5ZCIsInVzZXJfaWQiOiI3In0.aIADjEebiyVq52QTmsd9jalmIIemYMmKGWf9JdOqx4g",
+    "created_at": "2026-05-12T04:25:27.104Z",
+    "expires_at": "2026-05-19T04:25:27Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 23,
+  "fields": {
+    "user": 7,
+    "jti": "0aa8862d6e104963a1bc5e4715abcd03",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE2NDczMCwiaWF0IjoxNzc4NTU5OTMwLCJqdGkiOiIwYWE4ODYyZDZlMTA0OTYzYTFiYzVlNDcxNWFiY2QwMyIsInVzZXJfaWQiOiI3In0.N5WWulSWEhttT-hWzojoa7DrUrCiuYlvoUB71uscs8o",
+    "created_at": "2026-05-12T04:25:30.783Z",
+    "expires_at": "2026-05-19T04:25:30Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 24,
+  "fields": {
+    "user": 6,
+    "jti": "be5199e34d544a3d828d4c58380505b2",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc3OTE2NDg2NSwiaWF0IjoxNzc4NTYwMDY1LCJqdGkiOiJiZTUxOTllMzRkNTQ0YTNkODI4ZDRjNTgzODA1MDViMiIsInVzZXJfaWQiOiI2In0.fW3pWTKYJP5R9nJ3iLLOjYvhQzHox0evJAMvBWHsN8E",
+    "created_at": "2026-05-12T04:27:45.252Z",
+    "expires_at": "2026-05-19T04:27:45Z"
+  }
+},
+{
+  "model": "token_blacklist.blacklistedtoken",
+  "pk": 1,
+  "fields": {
+    "token": 4,
+    "blacklisted_at": "2026-05-05T02:47:16.251Z"
+  }
+},
+{
+  "model": "token_blacklist.blacklistedtoken",
+  "pk": 2,
+  "fields": {
+    "token": 9,
+    "blacklisted_at": "2026-05-11T22:43:32.821Z"
+  }
+},
+{
+  "model": "token_blacklist.blacklistedtoken",
+  "pk": 3,
+  "fields": {
+    "token": 13,
+    "blacklisted_at": "2026-05-12T01:25:20.313Z"
+  }
+},
+{
+  "model": "token_blacklist.blacklistedtoken",
+  "pk": 4,
+  "fields": {
+    "token": 8,
+    "blacklisted_at": "2026-05-12T01:50:52.329Z"
+  }
+},
+{
+  "model": "core.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$qbf4IWLhVjApEMAjNHMOUL$fMZQxSYMTq+kTXf9pEJbPJfHJlZNnn277qLPNsibGGY=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "SysAdmin_HQ",
+    "first_name": "System",
+    "last_name": "Administrator",
+    "email": "admin@gov.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-01T00:00:00Z",
+    "role": "Admin",
+    "department": "Common",
+    "created_by": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$8xH0Yogpkx4k6xSW03qfnj$etz92zXyhXLfDBwaHMSbQkpeoEsHrR7vpS/MFsvy1hk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "SecClerk_John",
+    "first_name": "Secretariat",
+    "last_name": "Clerk",
+    "email": "john@gov.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T10:00:00Z",
+    "role": "Clerk",
+    "department": "Common",
+    "created_by": 1,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$yphDJOEGXzwzQYzllGfeIZ$hwNxxJg+kW45HbGwgNTxsB9oRfyoS6p55s9Yi7TGXQE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "JointSec_Jane",
+    "first_name": "Joint",
+    "last_name": "Secretary",
+    "email": "jane@gov.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-24T10:00:00Z",
+    "role": "Officer",
+    "department": "Common",
+    "created_by": 1,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$XyJ3k5Wrie6wuUdBrB0yws$Mw7wWRZPDihe8VABiQH+BgR4ZtzI1wbm0GKOK+pZC9Q=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Minister_Shantala",
+    "first_name": "Cabinet",
+    "last_name": "Minister",
+    "email": "Shantala@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-21T10:00:00Z",
+    "role": "Head",
+    "department": "Common",
+    "created_by": 1,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$0G8e1aFRndLeMOXzecnafM$XOGPOjgyQw4pfNgVlAQrITEUiyUjgO1n1PHWUPAPpnM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Secretary_Priya",
+    "first_name": "Chief",
+    "last_name": "Secretary",
+    "email": "priya@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-17T10:00:00Z",
+    "role": "Higher Authority",
+    "department": "Common",
+    "created_by": 1,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$tE2ccM77BVfgsVjq876AvD$Z9+G8P+s+gJP3gEEkBidm5leR45JMkHTT9PC58OYFtU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "girijapatil377@gmail.com",
+    "first_name": "Citizen",
+    "last_name": "",
+    "email": "girijapatil377@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-04T03:28:37.337Z",
+    "role": "Citizen",
+    "department": "",
+    "created_by": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$SOD3VoTAeNR1u1sqZw4LGM$tJxRqLYERIqhgIyuGYY3FvPOLRsMkPe/RwqfbIvS2M4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "FinanceAsst_Praveen",
+    "first_name": "Finance",
+    "last_name": "Assistant",
+    "email": "Praveen@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-26T10:00:00Z",
+    "role": "Clerk",
+    "department": "Finance",
+    "created_by": 2,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$UPJujx6bkbdeKF4aRyjEuV$2RXE8qi+plBrouy1pnApXmL0E4XNwENXo6Pnw7A3nI8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "HealthClerk_Suman",
+    "first_name": "Health",
+    "last_name": "Desk Clerk",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-07T10:00:00Z",
+    "role": "Clerk",
+    "department": "Health",
+    "created_by": 2,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$eMBBOAcapgP31adSoyRaXg$ikMaIGH0EwPa2Yo0L1aNqWTuuISTGRy6QjOSADYXtFA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "TransportAsst_Rudra",
+    "first_name": "Transport",
+    "last_name": "Assistant",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-22T10:00:00Z",
+    "role": "Clerk",
+    "department": "Transport",
+    "created_by": 2,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 10,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$KIhsGOSoNzDrmGDdOrAJZr$geuwfMBNeJWbmCVNiuVXX/Lx093TanseRKl+1lPU970=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "EduAsst_Sanju",
+    "first_name": "Education",
+    "last_name": "Assistant",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-28T10:00:00Z",
+    "role": "Clerk",
+    "department": "Education",
+    "created_by": 2,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$f7hdQUUSoxs2ZgRXbtVllu$82BRWD0ZkCGmVqfiQXR2ITgJE01kT9UQrhYDRp++No8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "PlanningAsst_Anush",
+    "first_name": "Planning",
+    "last_name": "Assistant",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T10:00:00Z",
+    "role": "Clerk",
+    "department": "Urban Planning",
+    "created_by": 2,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$0mU98rMzSoAf0UfNDTXZEX$3q56RxIWCSWor+1YiUHsCbxKmxRC1GJtEXwIORfSJUM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "AccountsOfficer_Suresh",
+    "first_name": "Accounts",
+    "last_name": "Officer",
+    "email": "finance_officer_suresh@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-25T10:00:00Z",
+    "role": "Officer",
+    "department": "Finance",
+    "created_by": 7,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 14,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$1RhOua4nZ0yWZiRoTtcueL$Rt2RaaamIjGZsHoekAuklFVtLZHYu8E76Jzoe7wbjC8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "TreasuryCtrl_Meera",
+    "first_name": "Treasury",
+    "last_name": "Controller",
+    "email": "finance_ha_meera@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-02T00:00:00Z",
+    "role": "Higher Authority",
+    "department": "Finance",
+    "created_by": 7,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 15,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$dKaCJbZXqJcD7gTzlfwSxb$ttEMy6xDHDYxGWHOh0bpM9xVrn26XV8o13gPTF3cvP8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "FinanceDirector_Raghavan",
+    "first_name": "Director",
+    "last_name": "of Finance",
+    "email": "finance_head_raghavan@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-11T10:00:00Z",
+    "role": "Head",
+    "department": "Finance",
+    "created_by": 7,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$iFNuupoZGw2go1eJ0mx1Iw$YnH43KrOypQbzplw+q9TWZf74wCz5Zr+6ReiX0ceCWo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "HealthOfficer_Deepak",
+    "first_name": "Health",
+    "last_name": "Officer",
+    "email": "health_officer_deepak@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T10:00:00Z",
+    "role": "Officer",
+    "department": "Health",
+    "created_by": 8,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 17,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$1J3ciPHW045wxtWtnDKTUX$1SBm7xv8A1av1ZNb5Jwj0okFhd83NhnHQaFjwerKKfE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "CMO_Ananya",
+    "first_name": "Chief",
+    "last_name": "Medical Officer",
+    "email": "health_ha_ananya@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-30T10:00:00Z",
+    "role": "Higher Authority",
+    "department": "Health",
+    "created_by": 8,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$LCyN8YyqLH3FNv8mRHZpMa$nWhGJffS9afWIjVxIm05Tz3q+RgamZ18itJTGwpihg4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "MedicalDirector_Manoj",
+    "first_name": "Medical",
+    "last_name": "Director",
+    "email": "health_head_manoj@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-09T10:00:00Z",
+    "role": "Head",
+    "department": "Health",
+    "created_by": 8,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 19,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$wumqsIW7qQMUvpbMWAcdhC$CcgK/a2gSb4C4uyOXzECkD9a0jQ5/vZTpNoQTeeUMw4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Enforcement_Vikram",
+    "first_name": "Enforcement",
+    "last_name": "Officer",
+    "email": "transport_officer_vikram@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-29T10:00:00Z",
+    "role": "Officer",
+    "department": "Transport",
+    "created_by": 9,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$aviDmkTGp4jztj0PxMkI2k$Cvq+wL2qUFD602/pJbKvA+tuM1wM2Uh0qocnbtFns90=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "RTO_Nisha",
+    "first_name": "Regional",
+    "last_name": "Transport Officer",
+    "email": "transport_ha_nisha@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-06T10:00:00Z",
+    "role": "Higher Authority",
+    "department": "Transport",
+    "created_by": 9,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 21,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$CKnEgxwvVOw7JeX7k2bT0C$vaI09QXjicBdSMLvvYViyZyQVZ3Vdlf6F3AbuAQU9J8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Commissioner_Sanjay",
+    "first_name": "Transport",
+    "last_name": "Commissioner",
+    "email": "transport_head_sanjay@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-21T10:00:00Z",
+    "role": "Head",
+    "department": "Transport",
+    "created_by": 9,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 22,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$ZzoTpi8JLqdNUfuTcjlSfz$I9lxsYNwG5k13wlTjQ8oFHNHkQQYIN92gIBPuEvMs2U=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "BEO_Kiran",
+    "first_name": "Block",
+    "last_name": "Education Officer",
+    "email": "education_officer_kiran@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-07T10:00:00Z",
+    "role": "Officer",
+    "department": "Education",
+    "created_by": 10,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 23,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$CRKDYvkZ5l3o3sraYYaCpO$iHy38Nm2HtoswpyuSgX3lFmH0UuLE8gjwcj3ASBc6qY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "DEO_Sunil",
+    "first_name": "District",
+    "last_name": "Education Officer",
+    "email": "education_ha_sunil@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-24T10:00:00Z",
+    "role": "Higher Authority",
+    "department": "Education",
+    "created_by": 10,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 24,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$GSIEnnWACgOu1BtnmkiiB7$Q9HmXQx6md2j0BQOdyoA9fppBF9CFJEiOcsULoWB8jU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "EduDirector_Aruna",
+    "first_name": "Director",
+    "last_name": "of Education",
+    "email": "education_head_aruna@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-08T10:00:00Z",
+    "role": "Head",
+    "department": "Education",
+    "created_by": 10,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 25,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$lsQpt4OUxVgaexCVVuVFsM$Yd6MWSFAmHd/GbpaiPtGjmN+62qN0VDo9t4y7cljLGw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Planner_Rohan",
+    "first_name": "Planning",
+    "last_name": "Officer",
+    "email": "urban_officer_rohan@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-14T10:00:00Z",
+    "role": "Officer",
+    "department": "Urban Planning",
+    "created_by": 11,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 26,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$o1G9X12UvNEyraeFJjIpcE$xuXgOLMTQayczyR66J1WwmGoFBLoPnGrOHyfGfqt5X0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "UDA_Isha",
+    "first_name": "Urban",
+    "last_name": "Development Authority",
+    "email": "urban_ha_isha@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-02T10:00:00Z",
+    "role": "Higher Authority",
+    "department": "Urban Planning",
+    "created_by": 11,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 27,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$RLHfVEErKVcon9JTDrbgEY$X5ozNI7J6NASEaGB6CMCAY1NWVVUM/SyHOZw6IEUU44=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "ChiefPlanner_Sreedharan",
+    "first_name": "Chief",
+    "last_name": "Town Planner",
+    "email": "urban_head_sreedharan@gov.in",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-10T10:00:00Z",
+    "role": "Head",
+    "department": "Urban Planning",
+    "created_by": 11,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.file",
+  "pk": 16,
+  "fields": {
+    "name": "Routine Monthly Report - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:03.544Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Routine_Monthly_Report_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 17,
+  "fields": {
+    "name": "Equipment Procurement Request - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.228Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Equipment_Procurement_Request_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 18,
+  "fields": {
+    "name": "Annual Budget Proposal - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.291Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Annual_Budget_Proposal_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 19,
+  "fields": {
+    "name": "Staff Training Schedule - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.346Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Staff_Training_Schedule_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 20,
+  "fields": {
+    "name": "Unauthorized Expense Claim - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.395Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Unauthorized_Expense_Claim_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 21,
+  "fields": {
+    "name": "Vendor Contract Renewal - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.451Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Vendor_Contract_Renewal_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 22,
+  "fields": {
+    "name": "Major Infrastructure Policy - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nAll attached forms are verified and compliant with regulations. Critical deadline approaching, process immediately.\nSignature: Clerk Name",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.507Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Major_Infrastructure_Policy_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 23,
+  "fields": {
+    "name": "Incomplete Application - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nThis document appears incomplete.\nSignature: ___",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.569Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Incomplete_Application_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 24,
+  "fields": {
+    "name": "Extended Leave Request - Finance Staff",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nI am requesting a 15 days leave for personal reasons.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.628Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Extended_Leave_Request_-_Finance_Staff.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 25,
+  "fields": {
+    "name": "Medical Leave Request - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nI am requesting a 15 days leave because I am hospitalized for a heart surgery.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.686Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Medical_Leave_Request_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 26,
+  "fields": {
+    "name": "Public Grievance - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nThe applicant has provided all necessary documentation, completely verified.\nSignature: Citizen",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.746Z",
+    "uploaded_by": 7,
+    "priority": "Normal",
+    "file_path": "uploads/Public_Grievance_-_Finance.txt",
+    "citizen_email": "citizen_finance@example.com",
+    "citizen_phone": "9876543210"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 27,
+  "fields": {
+    "name": "Complex Reimbursement - Finance",
+    "description": "Date: 2026-05-04\nTo the Finance Department,\nReimbursement request.\nSignature: Staff\n\nAmount: $500. Verified.\n\nAmount: $300. Verified.",
+    "department": "Finance",
+    "upload_date": "2026-05-04T18:04:05.817Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Complex_Reimbursement_-_Finance.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 28,
+  "fields": {
+    "name": "Routine Monthly Report - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:05.940Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Routine_Monthly_Report_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 29,
+  "fields": {
+    "name": "Equipment Procurement Request - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.004Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Equipment_Procurement_Request_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 30,
+  "fields": {
+    "name": "Annual Budget Proposal - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.058Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Annual_Budget_Proposal_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 31,
+  "fields": {
+    "name": "Staff Training Schedule - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.113Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Staff_Training_Schedule_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 32,
+  "fields": {
+    "name": "Unauthorized Expense Claim - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.164Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Unauthorized_Expense_Claim_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 33,
+  "fields": {
+    "name": "Vendor Contract Renewal - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.219Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Vendor_Contract_Renewal_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 34,
+  "fields": {
+    "name": "Major Infrastructure Policy - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nAll attached forms are verified and compliant with regulations. Critical deadline approaching, process immediately.\nSignature: Clerk Name",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.271Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Major_Infrastructure_Policy_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 35,
+  "fields": {
+    "name": "Incomplete Application - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nThis document appears incomplete.\nSignature: ___",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.345Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Incomplete_Application_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 36,
+  "fields": {
+    "name": "Extended Leave Request - Health Staff",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nI am requesting a 15 days leave for personal reasons.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.402Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Extended_Leave_Request_-_Health_Staff.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 37,
+  "fields": {
+    "name": "Medical Leave Request - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nI am requesting a 15 days leave because I am hospitalized for a heart surgery.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.460Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Medical_Leave_Request_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 38,
+  "fields": {
+    "name": "Public Grievance - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nThe applicant has provided all necessary documentation, completely verified.\nSignature: Citizen",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.530Z",
+    "uploaded_by": 8,
+    "priority": "Normal",
+    "file_path": "uploads/Public_Grievance_-_Health.txt",
+    "citizen_email": "citizen_health@example.com",
+    "citizen_phone": "9876543210"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 39,
+  "fields": {
+    "name": "Complex Reimbursement - Health",
+    "description": "Date: 2026-05-04\nTo the Health Department,\nReimbursement request.\nSignature: Staff\n\nAmount: $500. Verified.\n\nAmount: $300. Verified.",
+    "department": "Health",
+    "upload_date": "2026-05-04T18:04:06.599Z",
+    "uploaded_by": 8,
+    "priority": "Urgent",
+    "file_path": "uploads/Complex_Reimbursement_-_Health.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 40,
+  "fields": {
+    "name": "Routine Monthly Report - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.697Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Routine_Monthly_Report_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 41,
+  "fields": {
+    "name": "Equipment Procurement Request - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.761Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Equipment_Procurement_Request_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 42,
+  "fields": {
+    "name": "Annual Budget Proposal - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.815Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Annual_Budget_Proposal_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 43,
+  "fields": {
+    "name": "Staff Training Schedule - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.870Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Staff_Training_Schedule_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 44,
+  "fields": {
+    "name": "Unauthorized Expense Claim - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.932Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Unauthorized_Expense_Claim_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 45,
+  "fields": {
+    "name": "Vendor Contract Renewal - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:06.991Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Vendor_Contract_Renewal_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 46,
+  "fields": {
+    "name": "Major Infrastructure Policy - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nAll attached forms are verified and compliant with regulations. Critical deadline approaching, process immediately.\nSignature: Clerk Name",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.041Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Major_Infrastructure_Policy_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 47,
+  "fields": {
+    "name": "Incomplete Application - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nThis document appears incomplete.\nSignature: ___",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.098Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Incomplete_Application_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 48,
+  "fields": {
+    "name": "Extended Leave Request - Transport Staff",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nI am requesting a 15 days leave for personal reasons.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.155Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Extended_Leave_Request_-_Transport_Staff.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 49,
+  "fields": {
+    "name": "Medical Leave Request - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nI am requesting a 15 days leave because I am hospitalized for a heart surgery.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.213Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Medical_Leave_Request_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 50,
+  "fields": {
+    "name": "Public Grievance - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nThe applicant has provided all necessary documentation, completely verified.\nSignature: Citizen",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.273Z",
+    "uploaded_by": 9,
+    "priority": "Normal",
+    "file_path": "uploads/Public_Grievance_-_Transport.txt",
+    "citizen_email": "citizen_transport@example.com",
+    "citizen_phone": "9876543210"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 51,
+  "fields": {
+    "name": "Complex Reimbursement - Transport",
+    "description": "Date: 2026-05-04\nTo the Transport Department,\nReimbursement request.\nSignature: Staff\n\nAmount: $500. Verified.\n\nAmount: $300. Verified.",
+    "department": "Transport",
+    "upload_date": "2026-05-04T18:04:07.344Z",
+    "uploaded_by": 9,
+    "priority": "Urgent",
+    "file_path": "uploads/Complex_Reimbursement_-_Transport.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 52,
+  "fields": {
+    "name": "Routine Monthly Report - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.426Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Routine_Monthly_Report_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 53,
+  "fields": {
+    "name": "Equipment Procurement Request - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.483Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Equipment_Procurement_Request_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 54,
+  "fields": {
+    "name": "Annual Budget Proposal - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.531Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Annual_Budget_Proposal_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 55,
+  "fields": {
+    "name": "Staff Training Schedule - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.584Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Staff_Training_Schedule_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 56,
+  "fields": {
+    "name": "Unauthorized Expense Claim - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.637Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Unauthorized_Expense_Claim_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 57,
+  "fields": {
+    "name": "Vendor Contract Renewal - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.693Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Vendor_Contract_Renewal_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 58,
+  "fields": {
+    "name": "Major Infrastructure Policy - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nAll attached forms are verified and compliant with regulations. Critical deadline approaching, process immediately.\nSignature: Clerk Name",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.749Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Major_Infrastructure_Policy_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 59,
+  "fields": {
+    "name": "Incomplete Application - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nThis document appears incomplete.\nSignature: ___",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.807Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Incomplete_Application_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 60,
+  "fields": {
+    "name": "Extended Leave Request - Education Staff",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nI am requesting a 15 days leave for personal reasons.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.852Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Extended_Leave_Request_-_Education_Staff.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 61,
+  "fields": {
+    "name": "Medical Leave Request - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nI am requesting a 15 days leave because I am hospitalized for a heart surgery.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.902Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Medical_Leave_Request_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 62,
+  "fields": {
+    "name": "Public Grievance - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nThe applicant has provided all necessary documentation, completely verified.\nSignature: Citizen",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:07.953Z",
+    "uploaded_by": 10,
+    "priority": "Normal",
+    "file_path": "uploads/Public_Grievance_-_Education.txt",
+    "citizen_email": "citizen_education@example.com",
+    "citizen_phone": "9876543210"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 63,
+  "fields": {
+    "name": "Complex Reimbursement - Education",
+    "description": "Date: 2026-05-04\nTo the Education Department,\nReimbursement request.\nSignature: Staff\n\nAmount: $500. Verified.\n\nAmount: $300. Verified.",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:08.015Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Complex_Reimbursement_-_Education.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 64,
+  "fields": {
+    "name": "Routine Monthly Report - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.106Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Routine_Monthly_Report_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 65,
+  "fields": {
+    "name": "Equipment Procurement Request - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.163Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Equipment_Procurement_Request_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 66,
+  "fields": {
+    "name": "Annual Budget Proposal - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.205Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Annual_Budget_Proposal_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 67,
+  "fields": {
+    "name": "Staff Training Schedule - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.251Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Staff_Training_Schedule_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 68,
+  "fields": {
+    "name": "Unauthorized Expense Claim - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.301Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Unauthorized_Expense_Claim_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 69,
+  "fields": {
+    "name": "Vendor Contract Renewal - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.353Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Vendor_Contract_Renewal_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 70,
+  "fields": {
+    "name": "Major Infrastructure Policy - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nAll attached forms are verified and compliant with regulations. Critical deadline approaching, process immediately.\nSignature: Clerk Name",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.402Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Major_Infrastructure_Policy_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 71,
+  "fields": {
+    "name": "Incomplete Application - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nThis document appears incomplete.\nSignature: ___",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.458Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Incomplete_Application_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 72,
+  "fields": {
+    "name": "Extended Leave Request - Urban Planning Staff",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nI am requesting a 15 days leave for personal reasons.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.509Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Extended_Leave_Request_-_Urban_Planning_Staff.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 73,
+  "fields": {
+    "name": "Medical Leave Request - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nI am requesting a 15 days leave because I am hospitalized for a heart surgery.\nAll attached forms are verified and compliant with regulations.\nSignature: Staff",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.560Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Medical_Leave_Request_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 74,
+  "fields": {
+    "name": "Public Grievance - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nThe applicant has provided all necessary documentation, completely verified.\nSignature: Citizen",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.614Z",
+    "uploaded_by": 11,
+    "priority": "Normal",
+    "file_path": "uploads/Public_Grievance_-_Urban_Planning.txt",
+    "citizen_email": "citizen_urbanplanning@example.com",
+    "citizen_phone": "9876543210"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 75,
+  "fields": {
+    "name": "Complex Reimbursement - Urban Planning",
+    "description": "Date: 2026-05-04\nTo the Urban Planning Department,\nReimbursement request.\nSignature: Staff\n\nAmount: $500. Verified.\n\nAmount: $300. Verified.",
+    "department": "Urban Planning",
+    "upload_date": "2026-05-04T18:04:08.673Z",
+    "uploaded_by": 11,
+    "priority": "Urgent",
+    "file_path": "uploads/Complex_Reimbursement_-_Urban_Planning.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 76,
+  "fields": {
+    "name": "Infrastructure Audit Report (Shared)",
+    "description": "Date: 2026-05-04\nAll attached forms are verified and compliant with regulations.\nSignature: Auditor",
+    "department": "Education",
+    "upload_date": "2026-05-04T18:04:08.759Z",
+    "uploaded_by": 10,
+    "priority": "Urgent",
+    "file_path": "uploads/Infrastructure_Audit_Report_Shared.txt",
+    "citizen_email": null,
+    "citizen_phone": null
+  }
+},
+{
+  "model": "core.file",
+  "pk": 77,
+  "fields": {
+    "name": "Standard Budget Proposal",
+    "description": "GOVERNMENT OF INDIA DEPARTMENT OF FINANCE\n\nRef No: FIN/2024/089 Date: May 12, 2024\n\nSUBJECT: PROPOSAL FOR INFRASTRUCTURE MAINTENANCE BUDGET FY 2024-25\n\nRespectfully submitted to the Department Head, this proposal outlines the required budget of INR 4.5 Crores for the maintenance of government residential complexes.\n\nBreakdown:\n\nCivil Repairs: 2.1 Cr\nElectrical Upgrades: 1.4 Cr\nLandscape & Security: 1.0 Cr\nWe have successfully completed the previous year's audit. All supporting receipts are attached.\n\n(Signed) R. Raghavan Senior Officer, Finance",
+    "department": "Finance",
+    "upload_date": "2026-05-11T22:59:17.360Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Standard_Budget_Proposal.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 78,
+  "fields": {
+    "name": "Standard Budget Proposal",
+    "description": "GOVERNMENT OF INDIA DEPARTMENT OF FINANCE\n\nRef No: FIN/2024/089 Date: May 12, 2024\n\nSUBJECT: PROPOSAL FOR INFRASTRUCTURE MAINTENANCE BUDGET FY 2024-25\n\nRespectfully submitted to the Department Head, this proposal outlines the required budget of INR 4.5 Crores for the maintenance of government residential complexes.\n\nBreakdown:\n\nCivil Repairs: 2.1 Cr\nElectrical Upgrades: 1.4 Cr\nLandscape & Security: 1.0 Cr\nWe have successfully completed the previous year's audit. All supporting receipts are attached.\n\n(Signed) R. Raghavan Senior Officer, Finance",
+    "department": "Finance",
+    "upload_date": "2026-05-11T22:59:25.873Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Standard_Budget_Proposal_4XahMWv.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 79,
+  "fields": {
+    "name": "Personal leave application for vacation",
+    "description": "To, The Administrative Officer,\n\nI am applying for 3 days of leave from May 20 to May 23.\n\nReason: Personal travel.\n\nSignature: \nDate: ",
+    "department": "Finance",
+    "upload_date": "2026-05-11T23:19:15.250Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Personal_leave_application_for_vacation.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 80,
+  "fields": {
+    "name": "Personal leave application for vacation",
+    "description": "To, The Administrative Officer,\n\nI am applying for 3 days of leave from May 20 to May 23.\n\nReason: Personal travel.\n\nSignature: \nDate: ",
+    "department": "Finance",
+    "upload_date": "2026-05-12T00:10:07.445Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Personal_leave_application_for_vacation_vyihNdL.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 81,
+  "fields": {
+    "name": "personal leave",
+    "description": "GOVERNMENT OF INDIA DEPARTMENT OF FINANCE\r\n\r\nRef No: FIN/2024/089 Date: May 12, 2024\r\n\r\nSUBJECT: PROPOSAL FOR INFRASTRUCTURE MAINTENANCE BUDGET FY 2024-25\r\n\r\nRespectfully submitted to the Department Head, this proposal outlines the required budget of INR 4.5 Crores for the maintenance of government residential complexes.\r\n\r\nBreakdown:\r\n\r\nCivil Repairs: 2.1 Cr\r\nElectrical Upgrades: 1.4 Cr\r\nLandscape & Security: 1.0 Cr\r\nWe have successfully completed the previous year's audit. All supporting receipts are attached.\r\n\r\n(Signed) R. Raghavan Senior Officer, Finance",
+    "department": "Finance",
+    "upload_date": "2026-05-12T01:26:17.933Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Standard_Budget_Proposal_FtS7G93.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 82,
+  "fields": {
+    "name": "Standard Budget Proposal",
+    "description": "GOVERNMENT OF INDIA DEPARTMENT OF FINANCE\n\nRef No: FIN/2024/089 Date: May 12, 2024\n\nSUBJECT: PROPOSAL FOR INFRASTRUCTURE MAINTENANCE BUDGET FY 2024-25\n\nRespectfully submitted to the Department Head, this proposal outlines the required budget of INR 4.5 Crores for the maintenance of government residential complexes.\n\nBreakdown:\n\nCivil Repairs: 2.1 Cr\nElectrical Upgrades: 1.4 Cr\nLandscape & Security: 1.0 Cr\nWe have successfully completed the previous year's audit. All supporting receipts are attached.\n\n(Signed) R. Raghavan Senior Officer, Finance",
+    "department": "Finance",
+    "upload_date": "2026-05-12T01:53:28.739Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Standard_Budget_Proposal_TIO1Sii.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 83,
+  "fields": {
+    "name": "Standard Budget Proposal",
+    "description": "GOVERNMENT OF INDIA DEPARTMENT OF FINANCE\n\nRef No: FIN/2024/089 Date: May 12, 2024\n\nSUBJECT: PROPOSAL FOR INFRASTRUCTURE MAINTENANCE BUDGET FY 2024-25\n\nRespectfully submitted to the Department Head, this proposal outlines the required budget of INR 4.5 Crores for the maintenance of government residential complexes.\n\nBreakdown:\n\nCivil Repairs: 2.1 Cr\nElectrical Upgrades: 1.4 Cr\nLandscape & Security: 1.0 Cr\nWe have successfully completed the previous year's audit. All supporting receipts are attached.\n\n(Signed) R. Raghavan Senior Officer, Finance",
+    "department": "Finance",
+    "upload_date": "2026-05-12T01:53:32.827Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/Standard_Budget_Proposal_g5qufSK.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.file",
+  "pk": 84,
+  "fields": {
+    "name": "Medical Emergency",
+    "description": "URGENT MEDICAL LEAVE APPLICATION\r\n\r\nDear Sir,\r\n\r\nI am writing to request an emergency leave of 25 days starting immediately.\r\n\r\nMy father has been admitted to the ICU for emergency heart surgery. I need to be present at the Hospital for his recovery and post-operative care.\r\n\r\nPlease find the medical reports and hospital admission slips attached as evidence.\r\n\r\nSincerely, S. Kumar Clerk, General Dept.",
+    "department": "Finance",
+    "upload_date": "2026-05-12T02:51:18.180Z",
+    "uploaded_by": 7,
+    "priority": "Urgent",
+    "file_path": "uploads/medical_emergency.txt",
+    "citizen_email": "girijapatil377@gmail.com",
+    "citizen_phone": "7975967515"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 38,
+  "fields": {
+    "file": 27,
+    "name": "Travel Receipt",
+    "file_path": "uploads/supporting/Travel_Receipt.txt",
+    "upload_date": "2026-05-04T18:04:05.835Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 39,
+  "fields": {
+    "file": 27,
+    "name": "Hotel Bill",
+    "file_path": "uploads/supporting/Hotel_Bill.txt",
+    "upload_date": "2026-05-04T18:04:05.852Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 40,
+  "fields": {
+    "file": 39,
+    "name": "Travel Receipt",
+    "file_path": "uploads/supporting/Travel_Receipt_qiGaPxS.txt",
+    "upload_date": "2026-05-04T18:04:06.615Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 41,
+  "fields": {
+    "file": 39,
+    "name": "Hotel Bill",
+    "file_path": "uploads/supporting/Hotel_Bill_U5AuOqH.txt",
+    "upload_date": "2026-05-04T18:04:06.629Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 42,
+  "fields": {
+    "file": 51,
+    "name": "Travel Receipt",
+    "file_path": "uploads/supporting/Travel_Receipt_2HJv7gd.txt",
+    "upload_date": "2026-05-04T18:04:07.355Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 43,
+  "fields": {
+    "file": 51,
+    "name": "Hotel Bill",
+    "file_path": "uploads/supporting/Hotel_Bill_NDzEP7T.txt",
+    "upload_date": "2026-05-04T18:04:07.368Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 44,
+  "fields": {
+    "file": 63,
+    "name": "Travel Receipt",
+    "file_path": "uploads/supporting/Travel_Receipt_ssCrKhL.txt",
+    "upload_date": "2026-05-04T18:04:08.028Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 45,
+  "fields": {
+    "file": 63,
+    "name": "Hotel Bill",
+    "file_path": "uploads/supporting/Hotel_Bill_MUzbJIw.txt",
+    "upload_date": "2026-05-04T18:04:08.043Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 46,
+  "fields": {
+    "file": 75,
+    "name": "Travel Receipt",
+    "file_path": "uploads/supporting/Travel_Receipt_ZxllA0g.txt",
+    "upload_date": "2026-05-04T18:04:08.684Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 47,
+  "fields": {
+    "file": 75,
+    "name": "Hotel Bill",
+    "file_path": "uploads/supporting/Hotel_Bill_IOQg9ao.txt",
+    "upload_date": "2026-05-04T18:04:08.694Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 48,
+  "fields": {
+    "file": 81,
+    "name": "fillable_electrician_receipt_template.png",
+    "file_path": "uploads/supporting/fillable_electrician_receipt_template.png",
+    "upload_date": "2026-05-12T02:13:48.708Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 49,
+  "fields": {
+    "file": 84,
+    "name": "thumb_1200_1553.png",
+    "file_path": "uploads/supporting/thumb_1200_1553.png",
+    "upload_date": "2026-05-12T02:56:32.584Z"
+  }
+},
+{
+  "model": "core.supportingdocument",
+  "pk": 50,
+  "fields": {
+    "file": 84,
+    "name": "Sample-Doctor-Medical-Certificate-.jpg",
+    "file_path": "uploads/supporting/Sample-Doctor-Medical-Certificate-.jpg",
+    "upload_date": "2026-05-12T03:05:20.409Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 67,
+  "fields": {
+    "file": 16,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.221Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 68,
+  "fields": {
+    "file": 17,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer. Forwarded to Higher Authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.285Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 69,
+  "fields": {
+    "file": 18,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed by Higher Authority. Forwarded to Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.339Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 70,
+  "fields": {
+    "file": 19,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "Approved by Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.388Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 71,
+  "fields": {
+    "file": 20,
+    "current_stage": "Rejected",
+    "approved_by": null,
+    "remarks": "Claim denied due to policy violation.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.446Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 72,
+  "fields": {
+    "file": 21,
+    "current_stage": "Returned for Correction",
+    "approved_by": null,
+    "remarks": "Please attach the missing annexure pages.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.500Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 73,
+  "fields": {
+    "file": 22,
+    "current_stage": "Escalated",
+    "approved_by": null,
+    "remarks": "Escalated to State Govt for final decision.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.563Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 74,
+  "fields": {
+    "file": 23,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.622Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 75,
+  "fields": {
+    "file": 24,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Officer forwarded despite AI warning.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.681Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 76,
+  "fields": {
+    "file": 25,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.740Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 77,
+  "fields": {
+    "file": 26,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.798Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 78,
+  "fields": {
+    "file": 26,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File received.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.805Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 79,
+  "fields": {
+    "file": 26,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Forwarded to authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.811Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 80,
+  "fields": {
+    "file": 27,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed and approved by lower levels.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.932Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 81,
+  "fields": {
+    "file": 28,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:05.998Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 82,
+  "fields": {
+    "file": 29,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer. Forwarded to Higher Authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.051Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 83,
+  "fields": {
+    "file": 30,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed by Higher Authority. Forwarded to Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.105Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 84,
+  "fields": {
+    "file": 31,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "Approved by Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.159Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 85,
+  "fields": {
+    "file": 32,
+    "current_stage": "Rejected",
+    "approved_by": null,
+    "remarks": "Claim denied due to policy violation.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.213Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 86,
+  "fields": {
+    "file": 33,
+    "current_stage": "Returned for Correction",
+    "approved_by": null,
+    "remarks": "Please attach the missing annexure pages.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.264Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 87,
+  "fields": {
+    "file": 34,
+    "current_stage": "Escalated",
+    "approved_by": null,
+    "remarks": "Escalated to State Govt for final decision.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.338Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 88,
+  "fields": {
+    "file": 35,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.395Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 89,
+  "fields": {
+    "file": 36,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Officer forwarded despite AI warning.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.453Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 90,
+  "fields": {
+    "file": 37,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.525Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 91,
+  "fields": {
+    "file": 38,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.582Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 92,
+  "fields": {
+    "file": 38,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File received.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.587Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 93,
+  "fields": {
+    "file": 38,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Forwarded to authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.594Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 94,
+  "fields": {
+    "file": 39,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed and approved by lower levels.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.689Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 95,
+  "fields": {
+    "file": 40,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.756Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 96,
+  "fields": {
+    "file": 41,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer. Forwarded to Higher Authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.810Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 97,
+  "fields": {
+    "file": 42,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed by Higher Authority. Forwarded to Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.865Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 98,
+  "fields": {
+    "file": 43,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "Approved by Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.925Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 99,
+  "fields": {
+    "file": 44,
+    "current_stage": "Rejected",
+    "approved_by": null,
+    "remarks": "Claim denied due to policy violation.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:06.985Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 100,
+  "fields": {
+    "file": 45,
+    "current_stage": "Returned for Correction",
+    "approved_by": null,
+    "remarks": "Please attach the missing annexure pages.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.036Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 101,
+  "fields": {
+    "file": 46,
+    "current_stage": "Escalated",
+    "approved_by": null,
+    "remarks": "Escalated to State Govt for final decision.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.093Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 102,
+  "fields": {
+    "file": 47,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.151Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 103,
+  "fields": {
+    "file": 48,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Officer forwarded despite AI warning.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.206Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 104,
+  "fields": {
+    "file": 49,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.267Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 105,
+  "fields": {
+    "file": 50,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.326Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 106,
+  "fields": {
+    "file": 50,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File received.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.331Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 107,
+  "fields": {
+    "file": 50,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Forwarded to authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.338Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 108,
+  "fields": {
+    "file": 51,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed and approved by lower levels.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.418Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 109,
+  "fields": {
+    "file": 52,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.478Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 110,
+  "fields": {
+    "file": 53,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer. Forwarded to Higher Authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.526Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 111,
+  "fields": {
+    "file": 54,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed by Higher Authority. Forwarded to Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.578Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 112,
+  "fields": {
+    "file": 55,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "Approved by Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.631Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 113,
+  "fields": {
+    "file": 56,
+    "current_stage": "Rejected",
+    "approved_by": null,
+    "remarks": "Claim denied due to policy violation.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.687Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 114,
+  "fields": {
+    "file": 57,
+    "current_stage": "Returned for Correction",
+    "approved_by": null,
+    "remarks": "Please attach the missing annexure pages.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.741Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 115,
+  "fields": {
+    "file": 58,
+    "current_stage": "Escalated",
+    "approved_by": null,
+    "remarks": "Escalated to State Govt for final decision.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.801Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 116,
+  "fields": {
+    "file": 59,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.848Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 117,
+  "fields": {
+    "file": 60,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Officer forwarded despite AI warning.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.898Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 118,
+  "fields": {
+    "file": 61,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:07.949Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 119,
+  "fields": {
+    "file": 62,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.000Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 120,
+  "fields": {
+    "file": 62,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File received.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.006Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 121,
+  "fields": {
+    "file": 62,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Forwarded to authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.011Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 122,
+  "fields": {
+    "file": 63,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed and approved by lower levels.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.098Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 123,
+  "fields": {
+    "file": 64,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.159Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 124,
+  "fields": {
+    "file": 65,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer. Forwarded to Higher Authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.201Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 125,
+  "fields": {
+    "file": 66,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed by Higher Authority. Forwarded to Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.247Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 126,
+  "fields": {
+    "file": 67,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "Approved by Head.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.296Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 127,
+  "fields": {
+    "file": 68,
+    "current_stage": "Rejected",
+    "approved_by": null,
+    "remarks": "Claim denied due to policy violation.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.348Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 128,
+  "fields": {
+    "file": 69,
+    "current_stage": "Returned for Correction",
+    "approved_by": null,
+    "remarks": "Please attach the missing annexure pages.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.396Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 129,
+  "fields": {
+    "file": 70,
+    "current_stage": "Escalated",
+    "approved_by": null,
+    "remarks": "Escalated to State Govt for final decision.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.452Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 130,
+  "fields": {
+    "file": 71,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.503Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 131,
+  "fields": {
+    "file": 72,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Officer forwarded despite AI warning.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.555Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 132,
+  "fields": {
+    "file": 73,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.608Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 133,
+  "fields": {
+    "file": 74,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Verified by Officer.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.659Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 134,
+  "fields": {
+    "file": 74,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "File received.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.663Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 135,
+  "fields": {
+    "file": 74,
+    "current_stage": "Higher Authority Review",
+    "approved_by": null,
+    "remarks": "Forwarded to authority.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.668Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 136,
+  "fields": {
+    "file": 75,
+    "current_stage": "Head Approval",
+    "approved_by": null,
+    "remarks": "Reviewed and approved by lower levels.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.743Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 137,
+  "fields": {
+    "file": 76,
+    "current_stage": "Final Approval",
+    "approved_by": null,
+    "remarks": "File uploaded and sent for review.",
+    "ip_address": null,
+    "timestamp": "2026-05-04T18:04:08.797Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 138,
+  "fields": {
+    "file": 50,
+    "current_stage": "Final Approval",
+    "approved_by": 4,
+    "remarks": "Actioned by Head",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-05T02:53:32.348Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 139,
+  "fields": {
+    "file": 78,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-11T22:59:27.240Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 140,
+  "fields": {
+    "file": 77,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-11T22:59:27.293Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 141,
+  "fields": {
+    "file": 79,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.\nMissing Date: The document is not dated.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-11T23:19:17.271Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 142,
+  "fields": {
+    "file": 80,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Signature: The signature field is blank.\nMissing Date: The document is not dated.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T00:10:07.481Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 143,
+  "fields": {
+    "file": 81,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:26:22.527Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 144,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:49.853Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 145,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:51.287Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 146,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:53.284Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 147,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:54.465Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 148,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:54.668Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 149,
+  "fields": {
+    "file": 25,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:48:54.866Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 150,
+  "fields": {
+    "file": 82,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:53:28.839Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 151,
+  "fields": {
+    "file": 83,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:53:32.936Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 152,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:57:56.148Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 153,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T01:57:59.254Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 154,
+  "fields": {
+    "file": 81,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:01:32.346Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 155,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:02:58.940Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 156,
+  "fields": {
+    "file": 81,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:03:41.114Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 157,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:04:05.448Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 158,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:04:07.134Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 159,
+  "fields": {
+    "file": 81,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:13:48.828Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 160,
+  "fields": {
+    "file": 81,
+    "current_stage": "Higher Authority Review",
+    "approved_by": 13,
+    "remarks": "Actioned by Officer",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:14:22.626Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 161,
+  "fields": {
+    "file": 84,
+    "current_stage": "Returned to Clerk",
+    "approved_by": null,
+    "remarks": "AI Auto-Reject: Missing Attachments: The document mentions attachments but none were provided.",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:51:23.419Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 162,
+  "fields": {
+    "file": 84,
+    "current_stage": "Returned to Clerk",
+    "approved_by": 13,
+    "remarks": "Document attachments",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:54:58.338Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 163,
+  "fields": {
+    "file": 84,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T02:56:32.697Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 164,
+  "fields": {
+    "file": 84,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T03:05:25.000Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 165,
+  "fields": {
+    "file": 84,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T03:08:27.164Z"
+  }
+},
+{
+  "model": "core.status",
+  "pk": 166,
+  "fields": {
+    "file": 84,
+    "current_stage": "Officer Review",
+    "approved_by": null,
+    "remarks": "",
+    "ip_address": "127.0.0.1",
+    "timestamp": "2026-05-12T03:16:35.654Z"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 16,
+  "fields": {
+    "file": 16,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 17,
+  "fields": {
+    "file": 17,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 18,
+  "fields": {
+    "file": 18,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 19,
+  "fields": {
+    "file": 19,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 20,
+  "fields": {
+    "file": 20,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 21,
+  "fields": {
+    "file": 21,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 22,
+  "fields": {
+    "file": 22,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 23,
+  "fields": {
+    "file": 23,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 24,
+  "fields": {
+    "file": 24,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 25,
+  "fields": {
+    "file": 25,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 26,
+  "fields": {
+    "file": 26,
+    "approval_probability": 56.83,
+    "rejection_probability": 43.17,
+    "predicted_priority": "Normal",
+    "classification": "complaint",
+    "detected_errors": "",
+    "decision": "APPROVE",
+    "reason": "Standard request meets departmental criteria.",
+    "key_factors": "Policy compliance, Document completeness",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 27,
+  "fields": {
+    "file": 27,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 28,
+  "fields": {
+    "file": 28,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 29,
+  "fields": {
+    "file": 29,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 30,
+  "fields": {
+    "file": 30,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 31,
+  "fields": {
+    "file": 31,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 32,
+  "fields": {
+    "file": 32,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 33,
+  "fields": {
+    "file": 33,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 34,
+  "fields": {
+    "file": 34,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 35,
+  "fields": {
+    "file": 35,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 36,
+  "fields": {
+    "file": 36,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 37,
+  "fields": {
+    "file": 37,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 38,
+  "fields": {
+    "file": 38,
+    "approval_probability": 57.4,
+    "rejection_probability": 42.6,
+    "predicted_priority": "Normal",
+    "classification": "complaint",
+    "detected_errors": "",
+    "decision": "APPROVE",
+    "reason": "Standard request meets departmental criteria.",
+    "key_factors": "Policy compliance, Document completeness",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 39,
+  "fields": {
+    "file": 39,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 40,
+  "fields": {
+    "file": 40,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 41,
+  "fields": {
+    "file": 41,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 42,
+  "fields": {
+    "file": 42,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 43,
+  "fields": {
+    "file": 43,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 44,
+  "fields": {
+    "file": 44,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 45,
+  "fields": {
+    "file": 45,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 46,
+  "fields": {
+    "file": 46,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 47,
+  "fields": {
+    "file": 47,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 48,
+  "fields": {
+    "file": 48,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 49,
+  "fields": {
+    "file": 49,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 50,
+  "fields": {
+    "file": 50,
+    "approval_probability": 57.46,
+    "rejection_probability": 42.54,
+    "predicted_priority": "Normal",
+    "classification": "complaint",
+    "detected_errors": "",
+    "decision": "APPROVE",
+    "reason": "Standard request meets departmental criteria.",
+    "key_factors": "Policy compliance, Document completeness",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 51,
+  "fields": {
+    "file": 51,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 52,
+  "fields": {
+    "file": 52,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 53,
+  "fields": {
+    "file": 53,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 54,
+  "fields": {
+    "file": 54,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 55,
+  "fields": {
+    "file": 55,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 56,
+  "fields": {
+    "file": 56,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 57,
+  "fields": {
+    "file": 57,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 58,
+  "fields": {
+    "file": 58,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 59,
+  "fields": {
+    "file": 59,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 60,
+  "fields": {
+    "file": 60,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 61,
+  "fields": {
+    "file": 61,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 62,
+  "fields": {
+    "file": 62,
+    "approval_probability": 57.23,
+    "rejection_probability": 42.77,
+    "predicted_priority": "Normal",
+    "classification": "complaint",
+    "detected_errors": "",
+    "decision": "APPROVE",
+    "reason": "Standard request meets departmental criteria.",
+    "key_factors": "Policy compliance, Document completeness",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 63,
+  "fields": {
+    "file": 63,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 64,
+  "fields": {
+    "file": 64,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 65,
+  "fields": {
+    "file": 65,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 66,
+  "fields": {
+    "file": 66,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 67,
+  "fields": {
+    "file": 67,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 68,
+  "fields": {
+    "file": 68,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 69,
+  "fields": {
+    "file": 69,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 70,
+  "fields": {
+    "file": 70,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 71,
+  "fields": {
+    "file": 71,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 72,
+  "fields": {
+    "file": 72,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 73,
+  "fields": {
+    "file": 73,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 74,
+  "fields": {
+    "file": 74,
+    "approval_probability": 62.35,
+    "rejection_probability": 37.65,
+    "predicted_priority": "Normal",
+    "classification": "complaint",
+    "detected_errors": "",
+    "decision": "APPROVE",
+    "reason": "Standard request meets departmental criteria.",
+    "key_factors": "Policy compliance, Document completeness",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 75,
+  "fields": {
+    "file": 75,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 76,
+  "fields": {
+    "file": 76,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 77,
+  "fields": {
+    "file": 78,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 78,
+  "fields": {
+    "file": 77,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 79,
+  "fields": {
+    "file": 79,
+    "approval_probability": 30.0,
+    "rejection_probability": 70.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.\nMissing Date: The document is not dated.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank., Missing Date: The document is not dated.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 80,
+  "fields": {
+    "file": 80,
+    "approval_probability": 30.0,
+    "rejection_probability": 70.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Signature: The signature field is blank.\nMissing Date: The document is not dated.",
+    "decision": "REJECT",
+    "reason": "Required document fields are missing or incomplete.",
+    "key_factors": "Policy compliance, Document completeness, Missing Signature: The signature field is blank., Missing Date: The document is not dated.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 81,
+  "fields": {
+    "file": 81,
+    "approval_probability": 30.0,
+    "rejection_probability": 70.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Unreadable file format or corrupted file.\nIrrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Unreadable file format or corrupted file., Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 82,
+  "fields": {
+    "file": 82,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 83,
+  "fields": {
+    "file": 83,
+    "approval_probability": 40.0,
+    "rejection_probability": 60.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Missing Attachments: The document mentions attachments but none were provided.",
+    "decision": "REJECT",
+    "reason": "Document mentions supporting attachments, but none were provided.",
+    "key_factors": "Policy compliance, Document completeness, Missing Attachments: The document mentions attachments but none were provided.",
+    "flags": ""
+  }
+},
+{
+  "model": "core.aiprediction",
+  "pk": 84,
+  "fields": {
+    "file": 84,
+    "approval_probability": 30.0,
+    "rejection_probability": 70.0,
+    "predicted_priority": "Urgent",
+    "classification": "invoice",
+    "detected_errors": "Unreadable file format or corrupted file.\nIrrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "decision": "REJECT",
+    "reason": "The provided supporting documents do not match the context of the main request.",
+    "key_factors": "Policy compliance, Document completeness, Exceeds duration limit, Medical emergency override, Unreadable file format or corrupted file., Irrelevant Attachments: The provided supporting documents do not appear contextually related to the main file.",
+    "flags": "Pattern override applied: Medical Exception"
+  }
+},
+{
+  "model": "core.filerequest",
+  "pk": 10,
+  "fields": {
+    "file": null,
+    "subject": "Healthcare Budget Allocation Details FY25",
+    "requesting_user": 8,
+    "requesting_department": "Health",
+    "target_department": "Finance",
+    "status": "Pending",
+    "confidentiality": "Confidential",
+    "purpose": "To align state health schemes with allocated budget.",
+    "remarks": "",
+    "created_at": "2026-05-04T18:04:08.750Z",
+    "updated_at": "2026-05-04T18:04:08.751Z"
+  }
+},
+{
+  "model": "core.filerequest",
+  "pk": 11,
+  "fields": {
+    "file": 76,
+    "subject": "Education Infrastructure Audit",
+    "requesting_user": 13,
+    "requesting_department": "Finance",
+    "target_department": "Education",
+    "status": "Approved",
+    "confidentiality": "Simple",
+    "purpose": "Verification of funds utilized.",
+    "remarks": "Document attached and released.",
+    "created_at": "2026-05-04T18:04:08.754Z",
+    "updated_at": "2026-05-04T18:04:08.801Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 1,
+  "fields": {
+    "user": 6,
+    "title": "Application Received",
+    "message": "Your new application #79 (Personal leave application for vacation) has been successfully uploaded and is under review.",
+    "is_read": false,
+    "created_at": "2026-05-11T23:19:17.276Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 2,
+  "fields": {
+    "user": 6,
+    "title": "Application Received",
+    "message": "Your new application #80 (Personal leave application for vacation) has been successfully uploaded and is under review.",
+    "is_read": false,
+    "created_at": "2026-05-12T00:10:07.486Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 3,
+  "fields": {
+    "user": 6,
+    "title": "Application Received",
+    "message": "Your new application #81 (personal leave) has been successfully uploaded and is under review.",
+    "is_read": false,
+    "created_at": "2026-05-12T01:26:22.544Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 4,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:49.883Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 5,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:51.311Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:53.305Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 7,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:54.485Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 8,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:54.688Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 9,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Leave Request - Finance",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: APPROVE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:48:54.903Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 10,
+  "fields": {
+    "user": 6,
+    "title": "Application Received",
+    "message": "Your new application #82 (Standard Budget Proposal) has been successfully uploaded and is under review.",
+    "is_read": false,
+    "created_at": "2026-05-12T01:53:28.855Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 11,
+  "fields": {
+    "user": 6,
+    "title": "Application Received",
+    "message": "Your new application #83 (Standard Budget Proposal) has been successfully uploaded and is under review.",
+    "is_read": false,
+    "created_at": "2026-05-12T01:53:32.952Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 12,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T01:57:56.163Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 13,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T01:57:59.274Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 14,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:58:00.852Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 15,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T01:58:06.164Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 16,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T02:02:58.960Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 17,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T02:03:04.047Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 18,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T02:04:05.471Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 19,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T02:04:07.155Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 20,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T02:04:09.989Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 21,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T02:04:12.038Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 22,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #81",
+    "message": "The status of your application 'personal leave' has been updated to: Higher Authority Review. Remarks: Actioned by Officer",
+    "is_read": false,
+    "created_at": "2026-05-12T02:14:22.643Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 23,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: personal leave",
+    "message": "AccountsOfficer_Suresh has moved the file to Higher Authority Review. Decision: ESCALATE",
+    "is_read": false,
+    "created_at": "2026-05-12T02:14:31.248Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 24,
+  "fields": {
+    "user": 6,
+    "title": "Application #84 Received - Finance Dept.",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nOFFICIAL ACKNOWLEDGEMENT\nReference No: PLG/FIN/84\nDate: 12-May-2026 02:51 AM\n\nDear Citizen,\n\nA new application has been filed on your behalf and is now under review.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  Priority        : Urgent\n  Submitted By    : Finance Assistant\n  Current Status  : Returned to Clerk\n\nDOCUMENTS RECEIVED:\n  1. medical_emergency.txt (Main Document)\n\nYou will be notified at every stage of the review process.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal",
+    "is_read": false,
+    "created_at": "2026-05-12T02:51:23.444Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 25,
+  "fields": {
+    "user": 6,
+    "title": "Status Update: Application #84 - Returned to Clerk",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nSTATUS UPDATE NOTIFICATION\nReference No: PLG/FIN/84\n\nDear Citizen,\n\nIMPORTANT: Your application has been RETURNED FOR CORRECTION.\n\nREASON FOR RETURN:\n  Document attachments\n\nACTION REQUIRED:\n  The concerned clerk will update your documents as per the\n  instructions above and resubmit for review. You will be\n  notified once the corrected application is resubmitted.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  Priority        : Urgent\n\nDOCUMENTS ON FILE:\n  1. medical_emergency.txt (Main Document)\n\nCOMPLETE STATUS HISTORY:\n  12-May-2026 02:51 AM | Returned to Clerk | By: System\n  12-May-2026 02:54 AM | Returned to Clerk | By: AccountsOfficer_Suresh\n\nYou can view the full details on the Citizen Portal at any time.\n\nThis is a system-generated notification. Please do not reply.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal\nGovernment of India",
+    "is_read": false,
+    "created_at": "2026-05-12T02:54:58.366Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 26,
+  "fields": {
+    "user": 7,
+    "title": "Action Taken: Medical Emergency",
+    "message": "Accounts Officer (Officer) has moved file #84 to 'Returned to Clerk'.\nDecision: RETURN\nRemarks: Document attachments",
+    "is_read": false,
+    "created_at": "2026-05-12T02:55:03.127Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 27,
+  "fields": {
+    "user": 6,
+    "title": "Application #84 Resubmitted for Review",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nRESUBMISSION NOTIFICATION\nReference No: PLG/FIN/84\n\nDear Citizen,\n\nGood news! Your application has been corrected and resubmitted\nfor review. The concerned officer will review the updated\ndocuments shortly.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  New Status      : Officer Review (Resubmitted)\n\nUPDATED DOCUMENTS ON FILE:\n  1. medical_emergency.txt (Main Document)\n  2. thumb_1200_1553.png (Supporting Document)\n\nYou will be notified once the officer completes the review.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal\nGovernment of India",
+    "is_read": false,
+    "created_at": "2026-05-12T02:56:32.712Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 28,
+  "fields": {
+    "user": 6,
+    "title": "Application #84 Resubmitted for Review",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nRESUBMISSION NOTIFICATION\nReference No: PLG/FIN/84\n\nDear Citizen,\n\nGood news! Your application has been corrected and resubmitted\nfor review. The concerned officer will review the updated\ndocuments shortly.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  New Status      : Officer Review (Resubmitted)\n\nUPDATED DOCUMENTS ON FILE:\n  1. medical_emergency.txt (Main Document)\n  2. thumb_1200_1553.png (Supporting Document)\n  3. Sample-Doctor-Medical-Certificate-.jpg (Supporting Document)\n\nYou will be notified once the officer completes the review.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal\nGovernment of India",
+    "is_read": false,
+    "created_at": "2026-05-12T03:05:25.029Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 29,
+  "fields": {
+    "user": 6,
+    "title": "Application #84 Resubmitted for Review",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nRESUBMISSION NOTIFICATION\nReference No: PLG/FIN/84\n\nDear Citizen,\n\nGood news! Your application has been corrected and resubmitted\nfor review. The concerned officer will review the updated\ndocuments shortly.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  New Status      : Officer Review (Resubmitted)\n\nUPDATED DOCUMENTS ON FILE:\n  1. medical_emergency.txt (Main Document)\n  2. thumb_1200_1553.png (Supporting Document)\n  3. Sample-Doctor-Medical-Certificate-.jpg (Supporting Document)\n\nYou will be notified once the officer completes the review.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal\nGovernment of India",
+    "is_read": false,
+    "created_at": "2026-05-12T03:08:27.182Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 30,
+  "fields": {
+    "user": 6,
+    "title": "Application #84 Resubmitted for Review",
+    "message": "GOVERNMENT OF INDIA\nPaperLessGov - Digital Seva Portal\n==================================================\n\nRESUBMISSION NOTIFICATION\nReference No: PLG/FIN/84\n\nDear Citizen,\n\nGood news! Your application has been corrected and resubmitted\nfor review. The concerned officer will review the updated\ndocuments shortly.\n\nAPPLICATION DETAILS:\n  File ID         : #84\n  Subject         : Medical Emergency\n  Department      : Finance\n  New Status      : Officer Review (Resubmitted)\n\nUPDATED DOCUMENTS ON FILE:\n  1. medical_emergency.txt (Main Document)\n  2. thumb_1200_1553.png (Supporting Document)\n  3. Sample-Doctor-Medical-Certificate-.jpg (Supporting Document)\n\nTRACK & DOWNLOAD YOUR DOCUMENTS:\n  Portal Link : http://localhost:3000/citizen-portal\n  Login       : Use your registered email as Username\n                and your phone number as Password\n  File ID     : #84\n\nYou will be notified once the officer completes the review.\n\nRegards,\nFinance Department\nPaperLessGov e-Governance Portal\nGovernment of India",
+    "is_read": false,
+    "created_at": "2026-05-12T03:16:35.675Z"
+  }
+}
+]
