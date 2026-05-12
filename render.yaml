@@ -2,8 +2,8 @@ services:
   - type: web
     name: paperlessgov-backend
     env: python
-    buildCommand: pip install -r requirements.txt && python manage.py collectstatic --no-input && python manage.py migrate
-    startCommand: gunicorn paperless_backend.wsgi
+    buildCommand: cd backend && pip install -r requirements.txt && python manage.py collectstatic --no-input && python manage.py migrate
+    startCommand: cd backend && gunicorn paperless_backend.wsgi
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
