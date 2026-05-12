@@ -17,3 +17,5 @@ joblib
 pandas
 scikit-learn
 PyPDF2
+cloudinary
+django-cloudinary-storage
