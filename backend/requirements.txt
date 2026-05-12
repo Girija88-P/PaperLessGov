@@ -8,10 +8,12 @@ dj-database-url
 psycopg2-binary
 gunicorn
 whitenoise
-axios
 python-dotenv
 google-generativeai
 Pillow
 python-magic
-python-magic-bin; platform_system == "Windows"
 requests
+joblib
+pandas
+scikit-learn
+PyPDF2
