@@ -34,7 +34,9 @@ const translations = {
     noNotif: 'You have no notifications yet.',
     markRead: 'Mark as Read',
     footer: '© 2025 PaperLessGov • Digital Seva Portal • National Informatics Centre',
-    selectLang: 'Language'
+    selectLang: 'Language',
+    fileNotYours: 'You can only track applications linked to your registered account. Please verify the File ID and try again.',
+    invalidFileId: 'No application found with this File ID. Please check the number and try again.'
   },
   hi: {
     name: 'हिन्दी',
@@ -71,7 +73,9 @@ const translations = {
     noNotif: 'आपके पास अभी तक कोई सूचना नहीं है।',
     markRead: 'पढ़ा हुआ चिह्नित करें',
     footer: '© 2025 पेपरलेसगव • डिजिटल सेवा पोर्टल • राष्ट्रीय सूचना विज्ञान केंद्र',
-    selectLang: 'भाषा'
+    selectLang: 'भाषा',
+    fileNotYours: 'आप केवल अपने पंजीकृत खाते से जुड़े आवेदन ट्रैक कर सकते हैं। कृपया फ़ाइल आईडी सत्यापित करें और पुनः प्रयास करें।',
+    invalidFileId: 'इस फ़ाइल आईडी से कोई आवेदन नहीं मिला। कृपया नंबर जांचें और पुनः प्रयास करें।'
   },
   kn: {
     name: 'ಕನ್ನಡ',
@@ -108,7 +112,9 @@ const translations = {
     noNotif: 'ನಿಮಗೆ ಇನ್ನೂ ಯಾವುದೇ ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ.',
     markRead: 'ಓದಿದೆ ಎಂದು ಗುರುತಿಸಿ',
     footer: '© 2025 ಪೇಪರ್‌ಲೆಸ್‌ಗವ್ • ಡಿಜಿಟಲ್ ಸೇವಾ ಪೋರ್ಟಲ್ • ರಾಷ್ಟ್ರೀಯ ಮಾಹಿತಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ',
-    selectLang: 'ಭಾಷೆ'
+    selectLang: 'ಭಾಷೆ',
+    fileNotYours: 'ನಿಮ್ಮ ನೋಂದಾಯಿತ ಖಾತೆಗೆ ಲಿಂಕ್ ಆಗಿರುವ ಅರ್ಜಿಗಳನ್ನು ಮಾತ್ರ ನೀವು ಟ್ರ್ಯಾಕ್ ಮಾಡಬಹುದು. ದಯವಿಟ್ಟು ಫೈಲ್ ಐಡಿ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.',
+    invalidFileId: 'ಈ ಫೈಲ್ ಐಡಿಯೊಂದಿಗೆ ಯಾವುದೇ ಅರ್ಜಿ ಕಂಡುಬಂದಿಲ್ಲ. ದಯವಿಟ್ಟು ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.'
   },
   bn: {
     name: 'বাংলা', portalTitle: 'ডিজিটাল সেবা পোর্টাল', govLabel: 'ভারত সরকার',
@@ -123,7 +129,9 @@ const translations = {
     department: 'বিভাগ', priority: 'অগ্রাধিকার', submittedBy: 'জমাদানকারী',
     noAppSelected: 'কোনো আবেদন নির্বাচিত নয়', noAppText: 'আপনার নথির লাইভ স্ট্যাটাস দেখতে উপরে ফাইল আইডি লিখুন।',
     officialNotif: 'সরকারি বিজ্ঞপ্তি', unread: 'অপঠিত', noNotif: 'আপনার এখনো কোনো বিজ্ঞপ্তি নেই।',
-    markRead: 'পঠিত হিসেবে চিহ্নিত করুন', footer: '© 2025 পেপারলেসগভ • ডিজিটাল সেবা পোর্টাল', selectLang: 'ভাষা'
+    markRead: 'পঠিত হিসেবে চিহ্নিত করুন', footer: '© 2025 পেপারলেসগভ • ডিজিটাল সেবা পোর্টাল', selectLang: 'ভাষা',
+    fileNotYours: 'আপনি কেবলমাত্র আপনার নিবন্ধিত অ্যাকাউন্টের সাথে সংযুক্ত আবেদন ট্র্যাক করতে পারেন।',
+    invalidFileId: 'এই ফাইল আইডি দিয়ে কোনো আবেদন পাওয়া যায়নি।'
   },
   te: {
     name: 'తెలుగు', portalTitle: 'డిజిటల్ సేవా పోర్టల్', govLabel: 'భారత ప్రభుత్వం',
@@ -138,7 +146,9 @@ const translations = {
     department: 'శాఖ', priority: 'ప్రాధాన్యత', submittedBy: 'సమర్పించినవారు',
     noAppSelected: 'దరఖాస్తు ఎంపిక చేయలేదు', noAppText: 'మీ పత్రం లైవ్ స్థితిని చూడటానికి పైన ఫైల్ ఐడి నమోదు చేయండి.',
     officialNotif: 'అధికారిక నోటిఫికేషన్లు', unread: 'చదవనివి', noNotif: 'మీకు ఇంకా నోటిఫికేషన్లు లేవు.',
-    markRead: 'చదివినట్లు గుర్తించండి', footer: '© 2025 పేపర్‌లెస్‌గవ్ • డిజిటల్ సేవా పోర్టల్', selectLang: 'భాష'
+    markRead: 'చదివినట్లు గుర్తించండి', footer: '© 2025 పేపర్‌లెస్‌గవ్ • డిజిటల్ సేవా పోర్టల్', selectLang: 'భాష',
+    fileNotYours: 'మీ నమోదిత ఖాతాకు లింక్ చేయబడిన దరఖాస్తులను మాత్రమే మీరు ట్రాక్ చేయగలరు.',
+    invalidFileId: 'ఈ ఫైల్ ఐడితో ఏ దరఖాస్తు కనుగొనబడలేదు.'
   },
   mr: {
     name: 'मराठी', portalTitle: 'डिजिटल सेवा पोर्टल', govLabel: 'भारत सरकार',
@@ -153,7 +163,9 @@ const translations = {
     department: 'विभाग', priority: 'प्राधान्य', submittedBy: 'सादर केलेले',
     noAppSelected: 'अर्ज निवडलेला नाही', noAppText: 'तुमच्या कागदपत्राची लाइव्ह स्थिती पाहण्यासाठी वर फाइल आयडी प्रविष्ट करा.',
     officialNotif: 'अधिकृत सूचना', unread: 'न वाचलेले', noNotif: 'तुम्हाला अद्याप कोणत्याही सूचना नाहीत.',
-    markRead: 'वाचले म्हणून चिन्हांकित करा', footer: '© 2025 पेपरलेसगव्ह • डिजिटल सेवा पोर्टल', selectLang: 'भाषा'
+    markRead: 'वाचले म्हणून चिन्हांकित करा', footer: '© 2025 पेपरलेसगव्ह • डिजिटल सेवा पोर्टल', selectLang: 'भाषा',
+    fileNotYours: 'तुम्ही फक्त तुमच्या नोंदणीकृत खात्याशी जोडलेले अर्ज ट्रॅक करू शकता.',
+    invalidFileId: 'या फाइल आयडीसह कोणताही अर्ज सापडला नाही.'
   },
   ta: {
     name: 'தமிழ்', portalTitle: 'டிஜிட்டல் சேவை போர்ட்டல்', govLabel: 'இந்திய அரசு',
@@ -168,7 +180,9 @@ const translations = {
     department: 'துறை', priority: 'முன்னுரிமை', submittedBy: 'சமர்ப்பித்தவர்',
     noAppSelected: 'விண்ணப்பம் தேர்ந்தெடுக்கப்படவில்லை', noAppText: 'உங்கள் ஆவணத்தின் நிலையைக் காண மேலே கோப்பு ஐடியை உள்ளிடவும்.',
     officialNotif: 'அதிகாரப்பூர்வ அறிவிப்புகள்', unread: 'படிக்காதவை', noNotif: 'உங்களுக்கு இன்னும் அறிவிப்புகள் இல்லை.',
-    markRead: 'படித்ததாகக் குறிக்கவும்', footer: '© 2025 பேப்பர்லெஸ்கவ் • டிஜிட்டல் சேவை போர்ட்டல்', selectLang: 'மொழி'
+    markRead: 'படித்ததாகக் குறிக்கவும்', footer: '© 2025 பேப்பர்லெஸ்கவ் • டிஜிட்டல் சேவை போர்ட்டல்', selectLang: 'மொழி',
+    fileNotYours: 'உங்கள் பதிவு செய்யப்பட்ட கணக்குடன் இணைக்கப்பட்ட விண்ணப்பங்களை மட்டுமே நீங்கள் கண்காணிக்க முடியும்.',
+    invalidFileId: 'இந்த கோப்பு ஐடியுடன் எந்த விண்ணப்பமும் கிடைக்கவில்லை.'
   },
   gu: {
     name: 'ગુજરાતી', portalTitle: 'ડિજિટલ સેવા પોર્ટલ', govLabel: 'ભારત સરકાર',
@@ -183,7 +197,9 @@ const translations = {
     department: 'વિભાગ', priority: 'અગ્રતા', submittedBy: 'સબમિટ કરનાર',
     noAppSelected: 'કોઈ અરજી પસંદ કરેલ નથી', noAppText: 'તમારા દસ્તાવેજની લાઇવ સ્થિતિ જોવા ઉપર ફાઇલ આઈડી દાખલ કરો.',
     officialNotif: 'સત્તાવાર સૂચનાઓ', unread: 'ન વાંચેલ', noNotif: 'તમને હજી કોઈ સૂચનાઓ નથી.',
-    markRead: 'વાંચેલ તરીકે ચિહ્નિત કરો', footer: '© 2025 પેપરલેસગવ • ડિજિટલ સેવા પોર્ટલ', selectLang: 'ભાષા'
+    markRead: 'વાંચેલ તરીકે ચિહ્નિત કરો', footer: '© 2025 પેપરલેસગવ • ડિજિટલ સેવા પોર્ટલ', selectLang: 'ભાષા',
+    fileNotYours: 'તમે ફક્ત તમારા રજિસ્ટર્ડ એકાઉન્ટ સાથે જોડાયેલી અરજીઓ ટ્રૅક કરી શકો છો.',
+    invalidFileId: 'આ ફાઇલ આઈડી સાથે કોઈ અરજી મળી નથી.'
   },
   ml: {
     name: 'മലയാളം', portalTitle: 'ഡിജിറ്റൽ സേവാ പോർട്ടൽ', govLabel: 'ഭാരത സർക്കാർ',
@@ -198,7 +214,9 @@ const translations = {
     department: 'വകുപ്പ്', priority: 'മുൻഗണന', submittedBy: 'സമർപ്പിച്ചത്',
     noAppSelected: 'അപേക്ഷ തിരഞ്ഞെടുത്തിട്ടില്ല', noAppText: 'നിങ്ങളുടെ രേഖയുടെ ലൈവ് നില കാണാൻ മുകളിൽ ഫയൽ ഐഡി നൽകുക.',
     officialNotif: 'ഔദ്യോഗിക അറിയിപ്പുകൾ', unread: 'വായിക്കാത്ത', noNotif: 'നിങ്ങൾക്ക് ഇതുവരെ അറിയിപ്പുകൾ ഇല്ല.',
-    markRead: 'വായിച്ചതായി അടയാളപ്പെടുത്തുക', footer: '© 2025 പേപ്പർലെസ്ഗവ് • ഡിജിറ്റൽ സേവാ പോർട്ടൽ', selectLang: 'ഭാഷ'
+    markRead: 'വായിച്ചതായി അടയാളപ്പെടുത്തുക', footer: '© 2025 പേപ്പർലെസ്ഗവ് • ഡിജിറ്റൽ സേവാ പോർട്ടൽ', selectLang: 'ഭാഷ',
+    fileNotYours: 'നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത അക്കൗണ്ടുമായി ലിങ്ക് ചെയ്ത അപേക്ഷകൾ മാത്രമേ ട്രാക്ക് ചെയ്യാൻ കഴിയൂ.',
+    invalidFileId: 'ഈ ഫയൽ ഐഡി ഉപയോഗിച്ച് ഒരു അപേക്ഷയും കണ്ടെത്തിയില്ല.'
   }
 };
 
