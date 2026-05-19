@@ -6,7 +6,9 @@ import { useState } from 'react';
 const resolveFileUrl = (path) => {
   if (!path) return '#';
   if (path.startsWith('http')) return path;
-  return `http://localhost:8000/media/${path}`;
+  const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.hostname.startsWith('192.168.') || window.location.hostname.startsWith('10.');
+  const base = isLocal ? `http://${window.location.hostname}:8000` : 'https://paperlessgov-backend.onrender.com';
+  return `${base}/media/${path}`;
 };
 
 const FileCard = ({ file, role, refreshData }) => {

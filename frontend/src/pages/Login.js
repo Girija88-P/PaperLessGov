@@ -129,6 +129,17 @@ const Login = ({ setAuth }) => {
           <button type="submit" className="btn-primary" style={{ width: '100%', fontSize: '1.1rem' }}>
             Secure Login
           </button>
+          
+          <div style={{ marginTop: '16px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>Are you a citizen? </span>
+            <button 
+              type="button"
+              onClick={() => navigate('/citizen-portal')}
+              style={{ background: 'none', border: 'none', color: 'var(--primary)', cursor: 'pointer', fontSize: '0.85rem', fontWeight: '600', paddingLeft: '4px', textDecoration: 'underline' }}
+            >
+              Go to Citizen Portal
+            </button>
+          </div>
         </form>
       </div>
     </div>

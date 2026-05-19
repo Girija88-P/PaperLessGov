@@ -13,7 +13,6 @@ import FileTracking from './pages/FileTracking';
 import CitizenPortal from './pages/CitizenPortal';
 import Requests from './pages/Requests';
 import Layout from './components/Layout';
-import { LangProvider } from './govI18n';
 import './index.css';
 
 function App() {
@@ -29,7 +28,6 @@ function App() {
   if (loading) return null;
 
   return (
-    <LangProvider>
     <Router>
       <Routes>
         <Route path="/login" element={!isAuthenticated ? <Login setAuth={setIsAuthenticated} /> : <Navigate to="/dashboard" />} />
@@ -50,7 +48,6 @@ function App() {
         <Route path="*" element={<Navigate to={isAuthenticated ? '/dashboard' : '/login'} />} />
       </Routes>
     </Router>
-    </LangProvider>
   );
 }
 

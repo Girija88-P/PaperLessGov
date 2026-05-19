@@ -36,8 +36,12 @@ api.interceptors.response.use(
       }
 
       try {
+        const refreshUrl = isLocal 
+          ? `http://${window.location.hostname}:8000/api/auth/token/refresh/` 
+          : 'https://paperlessgov-backend.onrender.com/api/auth/token/refresh/';
+
         // Call the refresh endpoint
-        const res = await axios.post('http://127.0.0.1:8000/api/auth/token/refresh/', {
+        const res = await axios.post(refreshUrl, {
           refresh: refreshToken,
         });
 

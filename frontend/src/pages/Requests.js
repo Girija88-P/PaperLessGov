@@ -313,7 +313,13 @@ const Requests = () => {
                </div>
              </div>
              <a 
-               href={req.file_details.file_path.startsWith('http') ? req.file_details.file_path : `http://127.0.0.1:8000/media/${req.file_details.file_path}`} 
+               href={(() => {
+                 const path = req.file_details.file_path;
+                 if (path.startsWith('http')) return path;
+                 const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.hostname.startsWith('192.168.') || window.location.hostname.startsWith('10.');
+                 const base = isLocal ? `http://${window.location.hostname}:8000` : 'https://paperlessgov-backend.onrender.com';
+                 return `${base}/media/${path}`;
+               })()} 
                target="_blank" 
                rel="noopener noreferrer"
                className="btn-primary" 
