@@ -2,8 +2,8 @@ services:
   - type: web
     name: paperlessgov-backend
     env: python
-    buildCommand: cd backend && pip install -r requirements.txt && python manage.py collectstatic --no-input && python manage.py migrate && python reset_users.py && python seed_demo_data.py
-    startCommand: cd backend && gunicorn paperless_backend.wsgi
+    buildCommand: cd backend && pip install -r requirements.txt && python manage.py collectstatic --no-input
+    startCommand: cd backend && python manage.py migrate && python reset_users.py && python seed_demo_data.py && python manage.py axes_reset && gunicorn paperless_backend.wsgi
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
